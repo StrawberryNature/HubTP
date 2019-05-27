@@ -1,2 +1,0 @@
-# HubTP
-Plugin für Poketmine
