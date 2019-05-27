@@ -1,2 +1,2 @@
 # HubTP
-Plugin für Poketmine ab API 3.5.0
+Ein Hub Plugin für Poketmine ab API 3.5.0
