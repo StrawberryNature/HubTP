@@ -1,0 +1,13 @@
+name: Hub
+main: SoartexHD\hub
+api: [3.0.0. 3.5.1, 3.8.2]
+version: 1.0
+author: SoartexHD
+
+commands:
+  sethub:
+     description: Setzte den Spawn für den Server
+     usage: /sethub
+  hub:
+     description: Teleporterte dich zum Spawn
+     usage: /hub
