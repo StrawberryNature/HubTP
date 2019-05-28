@@ -13,7 +13,8 @@ Ein Hub Plugin für Poketmine ab API 3.5.0
 # Anwendung
 
 Stellt euch in der default-welt an den Spawn und schaut in die
-gewünschte richtung, gebt danach /sethub ein und ab dann könnt ihr euch
+gewünschte richtung da das Plugin mit PITCH und YAW das abspeichern kann,
+gebt danach /sethub ein und ab dann könnt ihr euch
 aus jeder Welt mit /hub in die Lobby teleportieren. 
 
 
